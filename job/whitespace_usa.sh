@@ -11,5 +11,9 @@
 #  Luis Fuentes initial
 #################################################
 
+# Deletting 
+cd /home/dbirptng/marodrig/DataEngineering-WhitespaceAnalysis/uploads/
+rm -rf *
+# running Whitespace_usa
 cd /ishome/ssg/lf188653/projects/DataEngineering-WhitespaceQuery/
 /ishome/ssg/lf188653/.conda/envs/testenv/bin/python main.py whitespace_usa
